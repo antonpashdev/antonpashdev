@@ -1,3 +1,13 @@
+# Anton Pashkovskyi
+
+Backend-focused software engineer with 10 years of commercial web development experience.
+
+I build and maintain backend systems with **Node.js, TypeScript, and NestJS**, with a focus on APIs, payments, subscriptions, authentication, third-party integrations, and data-intensive applications.
+
+- Based in Ljubljana, Slovenia
+- Open to fully remote backend engineering roles
+- Primary stack: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), TypeScript, NestJS, MongoDB, PostgreSQL, Redis, Docker
+- Additional experience: Stripe, RabbitMQ, Kafka, Kubernetes, Playwright, React, Vue, Flutter, Solana/Web3
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pashkovskyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonpash.dev@gmail.com) 
