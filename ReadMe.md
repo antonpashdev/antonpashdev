@@ -24,4 +24,4 @@ TypeScript SDK for integrating web applications with DePlan wallet authenticatio
 Six Flutter applications and a shared package for subscription, wallet, organization, and media products.
 
 ## Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pashkovskyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonpash.dev@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonpash.dev@gmail.com) 
