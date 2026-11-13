@@ -1,6 +1,6 @@
 # Anton Pashkovskyi
 
-Backend-focused software engineer with 10 years of commercial web development experience.
+Backend-focused software engineer experienced in commercial web development.
 
 I build and maintain backend systems with **Node.js, TypeScript, and NestJS**, with a focus on APIs, payments, subscriptions, authentication, third-party integrations, and data-intensive applications.
 
