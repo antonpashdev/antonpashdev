@@ -11,11 +11,11 @@ I build and maintain backend systems with **Node.js, TypeScript, and NestJS**, w
 
 ## Selected projects
 
-### [DePlan Server](https://github.com/deplan-xyz/deplan_server)
-Multi-product NestJS backend for authentication, payments, subscriptions, Solana wallet operations, Stripe webhooks, rewards, background jobs, and permanent storage.
-
 ### [Impact Wallet Server](https://github.com/impactwallet/impact-wallet-server)
 Backend API for an onchain equity management platform built with NestJS, MongoDB and Solana.
+
+### [DePlan Server](https://github.com/deplan-xyz/deplan_server)
+Multi-product NestJS backend for authentication, payments, subscriptions, Solana wallet operations, Stripe webhooks, rewards, background jobs, and permanent storage.
 
 ### [DePlan Web SDK](https://github.com/deplan-xyz/web_sdk)
 TypeScript SDK for integrating web applications with DePlan wallet authentication and signature verification.
